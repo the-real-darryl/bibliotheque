@@ -1,0 +1,37 @@
+
+main {
+    font-family: Arial;
+    /*margin: 0 auto;  Center website */
+    /*width: 80%; /* Max width */
+    /*padding: 20px;*/
+    max-width: 1000px;
+    margin: auto;
+}
+
+.checked {
+    color: orange;
+}
+
+figure{
+    float: left;
+    
+    /*margin-right:100px;*/
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+figcaption{
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+figcaption p {
+    font-size: 0.8em;
+    
+}
+
+.row{
+    margin: 10px;
+}
